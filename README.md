@@ -9,7 +9,7 @@ This is a solution to the Boss Level Challenge 2 from The Complete 2022 Web Deve
   - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
-  - [Built with](#built-with)
+  - [Built with](#built-with)git
   - [What I learned](#what-i-learned)
 
 ## Overview
@@ -37,7 +37,7 @@ This is a solution to the Boss Level Challenge 2 from The Complete 2022 Web Deve
 
 ### Built with
 
-- Html and Css has benn provided by Angela Yu
+- Html and Css has been provided by Angela Yu as part of The Complete 2022 Web Development Bootcamp
 - jQuery
 
 ### What I learned
