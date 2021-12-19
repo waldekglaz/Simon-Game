@@ -1,6 +1,6 @@
 # The Simon Game
 
-This is a solution to the Boss Level Challenge 2 from The Complete 2022 Web Development Bootcamp on Udemy by Angela Yu[Coding bootcamp testimonials slider challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/coding-bootcamp-testimonials-slider-4FNyLA8JL).
+This is a solution to the Boss Level Challenge 2 from The Complete 2022 Web Development Bootcamp on Udemy by Angela Yu [Lik to the course](https://www.udemy.com/course/the-complete-web-development-bootcamp/).
 
 ## Table of contents
 
